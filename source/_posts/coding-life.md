@@ -1,0 +1,99 @@
+---
+title: 學程式前先問：你到底是誰？
+---
+
+小時候，班上分成兩派，一派更喜歡神奇寶貝，一派更喜歡數碼寶貝。我是後面的陣營。
+現在想起來，當時會喜歡數碼寶貝，不只是因為很帥（還有我不被准許玩 Game Boy QQ)，也因為它好像比較多人性的刻劃。我最喜歡的一幕，就是當夥伴被惡魔獸殲滅，阿武帶著他的傷口、握著金黃色徽章低語道：
+
+> 「不行！即使到了最後，我也不能放棄希望！」
+
+然後巴達獸就超進化成神聖天使獸了，蒸蚌蒸蚌。
+
+「希望」讓我們在最絕望的時候、最困頓的時候足以奮起，也讓我們坦然超越生命中的低潮，帶著自己僅有的一切，坦蕩蕩跟這個世界喊道：「反正沒什麼好失去的了，我不會被打敗的！」這樣的生命意志，雖然超級中二，卻能帶我們走很遠、很遠。
+
+![](https://miro.medium.com/max/1400/1*nemSYskCqmG2hots3oyEvA.tiff)
+
+https://www.youtube.com/watch?v=vUYnDUne01k
+
+從小到大，我們被賦予了很多期待，試圖變成別人希望的樣貌，很少真正捫心自問要的是什麼。即使問了，大家的答案也不外乎是一些職業名或是那些很自由的人在做的某件事，=殊不知其實也跌入了另一個刻板印象。有沒有可能我們自以為沒有興趣的東西，只是因為小時候被教育體制跟社會輿論「玩壞了」？例如「工程師」這個職業，撕掉宅宅的外在標籤，內在讓那些優秀的大大們有所熱情的，又是什麼呢？=
+
+> =畢竟，我們都先是個人，才是個「什麼」。=
+
+現在的台灣，充斥著失敗主義的厭世怨懟。外在的世界可以靠抗爭與體制內作法爭取，那內在的世界又該如何治療？ **「文組不意外」、一定要當 XXX 才有好薪水，** 於是我們接續著青春時為考試拋棄一切的態度，丟掉了吉他、放下了畫筆，不情不願繼續符合外在的期待，希望獲得外在的成功，至於那些傷口 — — 自已一個人的時候舔一舔，就好了（真的嗎）……
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNbtaaTfINaM%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNbtaaTfINaM&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNbtaaTfINaM%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&type=text%2Fhtml&schema=youtube" allowfullscreen="" frameborder="0" height="480" width="854" title="Mayday五月天[三個傻瓜Three fools]官方Official HD MV" class="fq aq as ag cf" scrolling="auto"></iframe>
+
+雖然我現在比較愛獨立音樂啦（撥髮），但這詞真的沒話說。
+
+> 所以他丟了 詩和天真 寒假和暑假 籃球漫畫和吉他
+> 他終於哭了 就在那天 回憶缺席了 最後一次鳳凰花
+>
+> 世界如果平的 為何人們 都要往上爬
+> 活著不是贏家 就是輸家 你敢輸掉嗎
+
+# 我先是個人，才是個 #hashtag
+
+我深深相信，只有靠不斷碰撞、探索，丟掉外人輿論加諸的標籤，不是用一種不得已的態度踏入一個新領域，才能真正勝任任何事。「 **如何找到自己的熱情？」** 這種問題從來是個進行式，要更抽象的思考跟嘗試，不該妄下定論，像這樣的命題：
+
+## 「我就是不喜歡程式！」
+
+也許你心中真正的吶喊是：
+
+## 「我不喜歡被社會強迫成為那個樣子！」
+
+=「那就用自己的步調，從學習中好好發掘樂趣如何呢？在技術上看到美與藝術、在語言上中看到秩序美、在使用者的笑容中找到成就、在新事物的發掘中品味先行者的孤獨、自傲與浪漫。」=
+
+例如很多人都喜歡畫畫、音樂、占卜等等，這些人將這些職業浪漫無暇化，覺得非做不可，但當上之後，才發現其背後的甘苦而放棄。 =其實無論那一種職涯跟職業，背後都有苦有樂，必然包含試煉與挑戰= 。也許，我們追求的，不是這些職業與技能本身，而是它背後所隱喻的，長久以來被教育壓抑的渴望：
+
+## 「我想作自己。」
+
+但你自己，到底是誰？（笑）
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?type=text%2Fhtml&key=a19fcc184b9711e1b4764040d3dc5c07&schema=facebook&url=https%3A//www.facebook.com/hateworldphilosopher/photos/a.866919160105317.1073741828.866912333439333/991119527685279/%3Ftype%3D3%26theater&image=https%3A//i.embed.ly/1/image%3Furl%3Dhttps%253A%252F%252Fscontent.xx.fbcdn.net%252Fv%252Ft1.0-0%252Fs130x130%252F17992087_991119527685279_5658087944076789392_n.png%253Foh%253D1c4c3b88b30e1f562176f0d613f5b4a3%2526oe%253D5A1980CE%26key%3Da19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0" height="600" width="600" title="厭世哲學家" class="fq aq as ag cf" scrolling="auto"></iframe>
+
+# 夥伴，你不是「轉行」當工程師，是「你」想成為工程師
+
+對於自己主體性有深刻洞察，才能開始走屬於你的英雄之路。 以我自己而言，想成為工程師的過程是從設計師身分認同危機開始 (designer identitiy crisis)。這是往科技領域的設計師所面臨的最嚴峻的問題，學習這麼多創意跟視覺相關的技術，但到頭來卻很容易被擺在附隨性質的位子。為了未來的財富自由跟職涯成長，還有最貴的時間，我能做的，除了簽樂透，就是寫程式。不是富二代的我，掙扎著考上了跟程式擦邊的研究所。
+
+**成績好了，所以呢**
+
+考上後，雖然學習上並無不順，以考試成績來看甚至能說是優秀 — — 是的，我是幸運的、很會考試，是個既得利益者。但是很快的，我經歷重大的憂鬱與自我懷疑。原來，當初從私立學校獨排眾議，跑去考設計的我，到頭來還是要屈從於社會階級的常態分佈嗎？（洗經歷）
+
+**原來，這才是我**
+
+這一切的心理掙扎，竟然被一件看似很小的事解救。作為「國際廢話線」的小編 (註一），看到臉書推出了直播功能，可以即時顯示投票功能覺得很好玩，就利用了肉腳的技術，參考了 Ryan (有錯請指正) 的文章做了一個。但我又很想客製化，於是打開了程式碼開始改。說也奇怪，那一瞬間世界似乎慢了下來，跟從前一樣的程式，卻讓我用全新的角度看待，猶如大二時看了《我思故我在》那種像嬰兒ㄧ樣新生、世界似乎煥然一新的感覺充斥全身。
+
+## 我明白了。原來我是實實在在的嘴砲啊。（什麼結論 XD)
+
+![](https://miro.medium.com/max/1400/1*QY3Wz0EwZtoXm5lxFmH3Jw.png)
+
+國際廢話線
+
+**笨蛋，重點在情境啊！**
+
+其實，作為一個疑似甲亢、輕躁的傢伙（我的觀察啦），我也作過翻譯、上過語言學的課程，當初看語言學課本不但沒有排斥感，還能快速找到規律成功解題，也是因此才增添了後來學習程式的信心。現在看起來，頗有種賈伯斯所說讓點滴匯集 (conneting the dots) 的感覺，對語言的熱情、對程式的想像像星際效應跨艙鏈結 (Spin!) 一樣，因為語言學、跨文化溝通中美麗的抽象性質，以及國際廢話線對外溝通帶來的興奮感，驚險的接在一起。自我分析後，我覺得自己也將視覺設計中對符號的孕育、探索與想像囊括在這個範疇之中。視覺符號、語言文字、程式的抽象規律、文案的概念遊戲彼此有機互動，成為 (evolve into) 一個整體。
+
+![](https://miro.medium.com/max/776/1*jY6R-c_jSYHTEaZLoYto-w.png)
+
+其實還有占星的同理共感，但這就扯太遠惹 XD
+
+那你呢？你是拿什麼心態看待自己的專業，或是新的領域呢？如果只是不得不或是為了錢，真的走得遠嗎？如果不，最好先問問自己，究竟想要什麼？
+
+# 所以，到底乾希望 P 事
+
+**能看到這裡的你真是不簡單！（拇指）**
+
+無論要做什麼，一定要跟自己說 **「我想要…」** 而不是 **「我只好…」** 。要對自己賦能。跳脫工程師這個脈絡，更重要的是認知到，就算你只剩下自己，還是很有價值的。「希望」握在手中，如果今天人生重來，你會怎麼看待程式？數學？或是那些被好多人討厭的科目？你會怎麼認識這個世界？你是誰，你為何而來，你往哪裡去？
+
+## 我希望的不只是技術而已。我希望探索另一個世界 — — 設計、溝通之外，另一種，屬於工程師典範的浪漫。
+
+我是探索自我潛能的靈魂占星師「黑石頭」、廢話線嘴砲編，找到自己學任何東西的理由，往前衝刺，成為閃耀的寶石吧！
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?type=text%2Fhtml&key=a19fcc184b9711e1b4764040d3dc5c07&schema=facebook&url=https%3A//www.facebook.com/murmurline/photos/a.1531296003831529.1073741828.1530544563906673/1699080320386429/%3Ftype%3D3%26theater&image=https%3A//i.embed.ly/1/image%3Furl%3Dhttps%253A%252F%252Fscontent.xx.fbcdn.net%252Fv%252Ft1.0-0%252Fp130x130%252F18952926_1699080320386429_2773121719837898987_n.png%253Foh%253Dc27e4d9d3aa4412f0335516e0a090a16%2526oe%253D5A1F5BC9%26key%3Da19fcc184b9711e1b4764040d3dc5c07" allowfullscreen="" frameborder="0" height="600" width="600" title="國際廢話線" class="fq aq as ag cf" scrolling="auto"></iframe>
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCaEE2oTKr-c%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCaEE2oTKr-c&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCaEE2oTKr-c%2Fhqdefault.jpg&key=a19fcc184b9711e1b4764040d3dc5c07&type=text%2Fhtml&schema=youtube" allowfullscreen="" frameborder="0" height="480" width="854" title="Avicii-The Nights/中文翻譯" class="fq aq as ag cf" scrolling="auto"></iframe>
+
+**(註1) 另一位小編是謝明佑大大。
+(註2) 不懂梗的人可以去看漫畫《魔導少年》 (Fairytail)。**
+
+喜歡我的文章，除了拍手，也可幫我在 LikeCoin 連按五下，分得官方礦池幣！謝謝衣食父母、感恩合十！
