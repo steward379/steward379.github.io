@@ -1,8 +1,7 @@
 ---
-title: Javascript 這個討厭鬼！
-description: 
-
-幾乎每個寫程式的人，都曾經討厭 Javascript 一遍、兩遍 —— 或者一直討厭下去。畢竟，一個總是讓人摸不著頭緒，花幾天就寫成的語言，即使經過更新的標準 ES6+ 以上的修正，還是讓人恨得拳頭癢癢、無法輕易掌握。可是大家還是那麼需要它，甚至將更加需要 —— 不只是前端，看看 Node.js 如何攻佔後端與物聯網、React Native 發展行動端、從 Electron 開始的電腦桌面應用程式 desktop App ……。
+title : Javascript 這個討厭鬼！
+subtitle: 幾乎每個寫程式的人，都曾經討厭 Javascript 一遍、兩遍
+description: 很多人從 jQuery 走到 Javascript 就卡關了。支持先學 Javascript 的那一派説，沒有對那種 Functional 的程式語言有所了解 ，又要如何從 html, css, jQuery 的思維跨越到那種「真正」的程式語言呢？但這知易行難呀！即使，像我一開始就碰 Javascript，卻被相關原理弄得暈頭轉向，感覺東缺西缺。直到⋯⋯
 ---
 > 「分號又忘了加！」、「奇怪是不是忘了括號？」的日子持續不斷，面對龐雜的程式碼，雖然感恩 Es6+ Seafood 用載入 import 與箭頭函數 => 稍微感化了 Javascript。但看看彈性有趣的 Ruby、 Python 的簡潔與美麗！又看看其他強型別語言雖麻煩而嚴謹，甚至做物聯網的 Processing 跟 Arduino (註一) 也提供程式初學者創造的可能性。 但是，Javascript 真讓人覺得麻煩又怪異。糟了，是 Javascript！
 
